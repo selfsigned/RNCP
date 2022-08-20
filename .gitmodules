@@ -1,0 +1,3 @@
+[submodule "cyber/HackThePlanet"]
+	path = cyber/HackThePlanet
+	url = git@github.com:selfsigned/HackThePlanet
