@@ -1,13 +1,17 @@
-# RNCP LVL 7: Expert in IT Architecture, IT systems
+# RNCP LVL 6: Application development
+## OOP
+ - [ ] Darkly
+## Functional Programming
+ - [ ] H42N42
+ - [ ] ft_turing
 
+# RNCP LVL 7: Expert in IT Architecture, IT systems
 ## Unix / Kernel
+ - [ ] KFS 1
+ - [ ] KFS 2
+### optional
  - [ ] Ft_Linux
  - [ ] Little Penguin 1
- - [ ] Kfs 1
-
-### Optional
- - [ ] Gbmu
- - [ ] KFS 2
 
 ## Sysadmin
 - [ ] cloud-1
@@ -17,5 +21,5 @@
 ## Security
  - [x] Boot2root
  - [x] Snow-crash
- - [ ] Rainfall
- - [ ] Override
+ - [x] Rainfall
+ - [x] Override
