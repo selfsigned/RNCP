@@ -1,3 +1,9 @@
 [submodule "cyber/HackThePlanet"]
 	path = cyber/HackThePlanet
 	url = git@github.com:selfsigned/HackThePlanet
+[submodule "devops/badass"]
+	path = devops/badass
+	url = https://github.com/selfsigned/badass
+[submodule "devops/inception-of-things"]
+	path = devops/inception-of-things
+	url = https://github.com/selfsigned/inception-of-things
