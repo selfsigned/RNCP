@@ -1,9 +1,9 @@
 
 # RNCP LVL 7: Expert in IT Architecture, IT systems
 ## Unix / Kernel
- - [ ] KFS 1
- - [ ] KFS 2
- - [ ] KFS 4
+ - [x] KFS 1
+ - [x] KFS 2
+ - [x] KFS 4
 ### optional
  - [ ] Ft_Linux
  - [ ] Little Penguin 1
